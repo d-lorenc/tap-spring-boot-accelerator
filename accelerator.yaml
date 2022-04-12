@@ -1,0 +1,8 @@
+accelerator:
+  displayName: spring-boot-accelerator
+  description: Bear bones spring boot app
+  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  tags: []
+engine:
+  include:
+  - '**'
